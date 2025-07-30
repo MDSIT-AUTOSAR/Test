@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 #include "sqlite3.h"
-
+// Git Test
 
 void checkSQLiteResult(int rc, sqlite3* db)
 {
