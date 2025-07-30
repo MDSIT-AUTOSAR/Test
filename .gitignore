@@ -416,5 +416,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-!**/[Dd]ebug/Share*/
-!**/[Dd]ebug/Share*/**
+!**/[Dd]ebug/ShareTest/
+!**/[Dd]ebug/ShareTest/**
