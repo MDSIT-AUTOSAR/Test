@@ -19,20 +19,24 @@ mono_crash.*
 
 # Build results
 **/[Dd]ebug/**
-[Dd]ebugPublic/
+**/[Dd]ebugPublic/**
 **/[Rr]elease/**
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-[Aa][Rr][Mm]64[Ee][Cc]/
+**/[Rr]eleases/**
+**/x64/**
+**/x86/**
+**/[Ww][Ii][Nn]32/**
+**/[Aa][Rr][Mm]/**
+**/[Aa][Rr][Mm]64/**
+**/[Aa][Rr][Mm]64[Ee][Cc]/**
 bld/
 [Oo]bj/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
+!**/[Dd]ebug/Share_*/
+!**/[Dd]ebug/Share_*/**
+!**/[Dd]ebug/R.AUTO_GUI/
+!**/[Dd]ebug/R.AUTO_GUI/**
 !/[Dd]ebug/Share_HARA/lib/vc140.idb
 
 !/[Dd]ebug/MDS_ExcelUtility.dll
