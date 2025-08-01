@@ -33,6 +33,11 @@ bld/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
+!/[Dd]ebug/Share_HARA/lib/vc140.idb
+
+!/[Dd]ebug/MDS_ExcelUtility.dll
+!/[Dd]ebug/libclang.dll
+!/[Dd]ebug/xerces-c_3_3.dll
 
 # Build results on 'Bin' directories
 **/[Bb]in/*
